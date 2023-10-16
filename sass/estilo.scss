@@ -124,7 +124,7 @@ body p {
 
 /*SECCIÓN 2 CATEGORIAS*/
 
-.container {
+main .container {
   overflow: hidden;
 }
 
@@ -390,7 +390,6 @@ blockquote {
 
 blockquote::before {
   content: open-quote;
-
   top: 0;
   left: 0;
 }
